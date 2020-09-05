@@ -1,5 +1,4 @@
-# Site_responsive
-# Site_responsive
+
 # Template zéro (en groupe)
 
   Ce projet consiste à satifaire les volontés d'une société X en créant un super site web pour  représenter ses produits dans le net afin de pouvoir élargir son business.  
